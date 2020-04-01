@@ -36,7 +36,7 @@ text {
   font-size: 16px;
 }
 p {
-  margin: 6% auto;
+  margin: 6% auto 10% auto;
   max-width: 680px;
 }
 a {
